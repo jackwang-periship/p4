@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>tango_with_django_pro</name>
+	<name>twd_proj</name>
 	<comment></comment>
 	<projects>
-		<project>p4</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
